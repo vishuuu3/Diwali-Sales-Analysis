@@ -20,7 +20,7 @@ The goal is to practice **data cleaning, exploratory data analysis (EDA), and vi
 ## 🛠️ Tools & Technologies
 - **Excel / Google Sheets** → Pivot tables, formulas, dashboards.  
 - **Python** → Pandas, NumPy, Matplotlib, Seaborn.  
-- **Power BI / Tableau** (optional) → Interactive dashboards.  
+    
 
 ---
 
